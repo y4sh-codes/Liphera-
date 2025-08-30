@@ -1,4 +1,4 @@
-# Liphera-
+# 🌐 Liphera
 Liphera is an offline-first language interaction platform with a web UI, backend, and Raspberry Pi model server, enabling fast, private, and reliable multilingual communication anywhere.
   
 This repository contains the **frontend, backend, and Raspberry Pi model server** for Liphera.  
@@ -56,6 +56,9 @@ liphera/
 ```
 
 ---
+## Architecture 
+
+<img width="1152" height="648" alt="liphera_architecture" src="https://github.com/user-attachments/assets/1c44418f-d730-4b21-9584-bccc2c4596e1" />
 
 ## 🛠️ Setup Instructions
 
