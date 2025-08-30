@@ -20,7 +20,7 @@ The system allows users to:
 ---
 
 ## 📂 Repository Structure
-
+```bash
 liphera/
 │── frontend/                  # Frontend code (React/Next.js/Vue)
 │   ├── public/                # Static assets
@@ -53,7 +53,7 @@ liphera/
 │
 │── .gitignore
 │── README.md
-
+```
 
 ---
 
